@@ -1,0 +1,54 @@
+[33mcommit dd61f41705e4b938bf794368e17dc57ffb0f900e[m[33m ([m[1;36mHEAD -> [m[1;32msignin[m[33m)[m
+Author: etoak <etoak@qq.com>
+Date:   Wed May 13 11:33:22 2020 +0800
+
+    在公司开发签到功能ssss
+
+[33mcommit 3a5ed0ebd2d269f156e284ecb1b5e9f9cdae442a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 3b094c0 26a9755
+Author: et1911 <et1911@et.com>
+Date:   Tue May 12 16:49:02 2020 +0800
+
+    master合并dev的举手功能
+
+[33mcommit 26a97551ec2e8ccc36e93996828a35ecf4574047[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: et1911 <et1911@et.com>
+Date:   Tue May 12 16:37:53 2020 +0800
+
+    举手功能开发完成
+
+[33mcommit 3b094c09b1b45e26a6df943dc926d9d31bc854f4[m
+Author: et1911 <et1911@et.com>
+Date:   Tue May 12 16:17:19 2020 +0800
+
+    issue01分支修复BUG
+
+[33mcommit 0be74d0aba997669649c9e61b59c3e018f4bc4f9[m
+Author: et1911 <et1911@et.com>
+Date:   Tue May 12 16:06:59 2020 +0800
+
+    dev分支开发了百分之50%
+
+[33mcommit b4c3ab86bc023f2df8091daa3f9276787017d597[m
+Author: et1911 <et1911@et.com>
+Date:   Tue May 12 16:06:16 2020 +0800
+
+    dev分支开发了百分之20%
+
+[33mcommit bc7343b1ba77b83d1493f5434aa6514d63a6da03[m
+Author: et1911 <et1911@et.com>
+Date:   Tue May 12 10:49:59 2020 +0800
+
+    添加学生功能完善成功
+
+[33mcommit 75c0e53255de20f511e4ad2cc7f92b1da206c2c9[m
+Author: et1911 <et1911@et.com>
+Date:   Tue May 12 10:37:52 2020 +0800
+
+    添加学生功能开发成功
+
+[33mcommit c3303beba8930ae04717da4f99c84500a44decb5[m
+Author: et1911 <et1911@et.com>
+Date:   Tue May 12 10:20:17 2020 +0800
+
+    第一次提交一个空html
